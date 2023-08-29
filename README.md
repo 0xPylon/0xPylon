@@ -1,5 +1,6 @@
 ## `0xPylon`
 
+<img src="https://raw.githubusercontent.com/0xPylon/0xPylon/main/pylon-starcraft.gif" width="256" />  
 ---
 
 ### 🌟
